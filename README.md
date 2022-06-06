@@ -26,6 +26,6 @@
 - This model allows us all to take a computer (or cellpgone) out of the box, plug in all the right cables, turn it on, and connect to and use the network. 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/172253551-07aeba04-0e2e-4080-9974-9fc325efe99f.png" height="100%" width="100%" alt="TCP/IP Model"/>
+<img src="https://user-images.githubusercontent.com/104326475/172253551-07aeba04-0e2e-4080-9974-9fc325efe99f.png" height="50%" width="50%" alt="TCP/IP Model"/>
   
 <p/>
