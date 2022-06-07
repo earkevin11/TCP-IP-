@@ -50,4 +50,9 @@
 
 
 # HTTP GET Request, HTTP Reply, and One Data-Only Message
-- 
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/172447553-afad7652-1719-417a-b47c-2391503a3baf.png" height="6%" width="65%" alt="TCP/IP Model"/>
+  
+<p/>
+
