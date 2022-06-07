@@ -59,4 +59,24 @@
 
 
 # TCP/IP Transport Layer
-- 
+- Two most commonly used Transport Layer protocols are the Tranmission Control Protocol (TCP)
+- AND the User Diagram Protocol (UDP)
+- Transport Layer protocols provide servuces to the application protocols that reside one layer higher in the TCP/IP model
+
+
+# How does a Transport Layer protocol provide a service to a higher-layer protocol?
+- TCP: Error Recovery
+
+
+# TCP Error Recovery Basics
+- To understand and appreciate Transport layer protocols, you have to think about the layer above the transport layer, the application layer.
+- Each layer provides a service to the layer above it, like the error-recovery service provided to the application layer protocols by TCP.
+- To recover from errors, TCP uses the concept of acknowledgements. 
+
+<p align="center">
+  
+<img src="" height="6%" width="65%" alt="TCP/IP Model"/>
+  
+<p/>
+
+
