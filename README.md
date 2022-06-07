@@ -34,6 +34,20 @@
 - This layer's protocols provide services to the application software running on a computer
 - The application layer doesn't define the application itself, but it defines services that applications need.
 - For example, application protocol HTTP defines how web browsers can pull the contents of a web page from a web server.
+- Most popular TCP/IP application today is the web browser
+
+# How does the HTTP work?
+- To make a request for a web page and return the contents of the web page, the applications use the HTTP.
+- The web browser application and web server application - use a TCP/IP application
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/172429199-d9165f4b-cc28-48e0-a68c-431445942424.png" height="85%" width="85%" alt="TCP/IP Model"/>
+  
+<p/>
+
+# Note: Full version of most web addresses - aka Uniform Resource Locators (URL) - begins with the letters HTTP, which means that HTTP is used to transfer the web pages.
 
 
-# Most popular TCP/IP application today is the web browser
+# HTTP GET Request, HTTP Reply, and One Data-Only Message
+- 
