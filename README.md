@@ -31,3 +31,6 @@
 <p/>
 
 # TCP/IP Application Layer
+- This layer's protocols provide services to the application software running on a computer
+- The application layer doesn't define the application itself, but it defines services that applications need.
+- For example, application protocol HTTP defines how web browsers can pull the contents of a web page from a web server.
